@@ -1,0 +1,4 @@
+#直接运行startup.py 可以生成allure_xml数据文件
+#allure generate allure_xml 生成allure report
+#allure serve allure_xml 可临时生成alllure report并打开
+#allure open allure_report 可以打开allure html report 
