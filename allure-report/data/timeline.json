@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "liangxf0100",
+    "children" : [ {
+      "name" : "default-cebec5be-6c7f-45a8-9171-65f5bf95545c",
+      "children" : [ {
+        "name" : "TC001",
+        "uid" : "1adf1b4694166e04",
+        "parentUid" : "5c55b50099d816d55e352cc3299ae0ac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607587672680,
+          "stop" : 1607587672684,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TC002",
+        "uid" : "367f9864ffd23646",
+        "parentUid" : "5c55b50099d816d55e352cc3299ae0ac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1607587672691,
+          "stop" : 1607587672695,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5c55b50099d816d55e352cc3299ae0ac"
+    } ],
+    "uid" : "aac4dfb37c34fc563906d9d9265c9f3b"
+  } ]
+}
